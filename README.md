@@ -1,4 +1,4 @@
-# Image Gallery
+# PicVista
 Welcome to the Image Gallery project! This project allows you to create a visually appealing gallery to showcase a collection of images.
 
 ## Key Features
